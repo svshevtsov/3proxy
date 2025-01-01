@@ -7,3 +7,4 @@ services:
     environment:
       - PROXY_LOGIN=msk
       - PROXY_PASSWORD=XP3__2@h1K0
+    restart: always
